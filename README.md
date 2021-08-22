@@ -7,7 +7,7 @@
 #* Some functions may not work. Like Gmail bomber since we haven't decided to update it, but see if you can fix it!
 
 
-#* Creators: Anti#0004 and Peber#8428
+#* Creators: Antii#0004 and Peber#8428
 
 
 #* Run installer first
