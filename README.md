@@ -1,4 +1,13 @@
-# Ciqer-MultiTool
-Ciqer-Multitool is a python developed multitool made by me and my friend.
+# Python Multitool - Ciqer.
 
-#* Ciqer-Multitool was developed to a discord server, you can go ahead and download more tools there. - Discord.gg/DtkZ7Xvn
+# Discord: Discord.gg/gyMvESqz6F
+
+#* Made for Python 3.9 any other version of python cannot run this file.
+
+#* Some functions may not work. Like Gmail bomber since we haven't decided to update it, but see if you can fix it!
+
+
+# Creators: Anti#0004 and PeberHD#6969.
+
+
+#* Run installer first
